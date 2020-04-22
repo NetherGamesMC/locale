@@ -1,0 +1,52 @@
+<?php
+declare(strict_types=1);
+
+namespace NetherGames\NGEssentials\lang\locale;
+
+
+class Greek implements Language
+{
+    public function translations(): array
+    {
+        return [
+            'command.chat.change' => '§6Το chat {%0} απενεργοποιήθηκε και το chat {%1} ενεργοποιήθηκε. Τώρα μπορείτε να μιλήσετε{%1} μόνο με μέλη.',
+            'command.chat.disable' => '§6Το chat {%0} απενεργοποιήθηκε. Τώρα μιλάτε με όλους τους παίχτες.',
+            'command.chat.enable' => '§6Το chat {%0} ενεργοποιήθηκε. Τώρα μιλάτε {%0} μόνο με μέλη.',
+            'command.chat.public' => '§cΛυπάμαι, είστε ήδη σε ένα δημόσιο chat.',
+            'command.chat.usage' => '§cΓράψτε /c [{%0}] για να ενεργοποιήσετε ένα συγκεκριμένο chat.',
+            'command.chat.usage.nothing' => '§cΛυπάμαι, δεν μπορείτε να αλλάξετε chat εφόσον δεν είστε σε πάρτυ.',
+            'command.chat.usage.party' => '§cWoohoo! Γράψτε /c party για να ενεργοποιήσετε το party chat, γράψτε /c off για να απενεργοποιήσετε το party chat.',
+            'database.error' => '§l§cΈνα απροσδόκητο λάθος προέκυψε κατά τη σύνδεση στη βάση δεδομένων. Τα δεδομένα σας δεν θα σωθούν για αυτή την περίοδο.',
+            'forms.profile.credits' => '§bΠόντοι: {%0}', 'forms.profile.deaths' => '§bΘάνατοι: {%0}',
+            'forms.profile.kills' => '§bΣκοτωμοί: {%0}',
+            'forms.profile.level' => '§bΕπίπεδο: {%0}',
+            'forms.profile.stats' => '§aΤα στατιστικά σας:',
+            'forms.profile.xp' => '§bXP: {%0}',
+            'join.vote' => '§6Ψηφίστε μας καθημερινά στον σύνδεσμο §bngmc.co/v §6και θα μπορούσατε να κερδίσετε μια δωρεάν αναβάθμιση της κλάσης σας!',
+            'join.welcome' => '§bΚαλωσήρθατε στον §eNether§6Games§b!',
+            'minigame.party.member.join' => "§cΕίστε προς το παρόν σ'ένα πάρτυ. Περιμένετε τον οικοδεσπότη να αποφασίσει ποιο παιχνίδι να παίξετε!",
+            'skin.invalid.change' => '§cΤο skin σας δεν είναι έγκυρο ώστε να παίξετε στον §eNether§6Games§c. Παρακαλούμε διαλέξτε ένα άλλο.',
+            'social.party.notin' => '§cΔεν είστε σε πάρτυ!',
+        ];
+    }
+
+    public function getName(): string
+    {
+        return 'Greek';
+    }
+
+    public function getLocale(): string
+    {
+        return 'el_gr';
+    }
+
+    public function getFlag(): string
+    {
+        return 'https://cdn.nethergames.org/img/flags/greece.png';
+    }
+
+    public function getCredits(): string
+    {
+        return 'SnowyBoar880643';
+    }
+}
