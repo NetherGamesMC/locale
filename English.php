@@ -74,6 +74,8 @@ class English implements Language
     {
         return array(
             'boost' => 'boost',
+            'command.ci.completed' => '§aYour inventory has been cleared!',
+            'command.ci.noperm' => "§cYou don't have permission to clear your inventory! Buy the §l§bLEGEND§r §crank at §bngmc.co/store §cto vanish!",
             'command.megac.noperm' => '§cMega Creative is only for players who have voted at §6ngmc.co/v§c.',
             'command.notinlobby' => '§cThat command can only be used in the lobby.',
             'command.reply.noperm' => "§cYou don't have permission to use the quick reply feature. Buy the §l§bLEGEND§r §c rank at §bngmc.co/store §cto use it!",
