@@ -211,6 +211,7 @@ class English implements Language
             'party.notin' => "§cYou're not in a party!",
             'party.stillingame' => '§b{%0} §cis still in a match. Wait for them before you join another one!',
             'party.welcome' => "§6Welcome to §b{%0}'s §6party!",
+            'pets.ride.noperm' => "§cYou don't have permission to ride and control pets.\nBuy the §l§cTITAN§r §crank at §bngmc.co/store §cto ride them!",
             'player.offline' => "§cThat player isn't online.",
             'proxy.kick' => '§o§l§eN§6G§r§7: §cUsing a proxy to play on §eNether§6Games §cis not allowed. Disable it to play!',
             'server.full' => "§o§l§eN§6G§r§7: §cLooks like §eNether§6Games §cis full, try again later!\nBuy the §l§aEMERALD§r §cor §l§bLEGEND§r §crank at §bngmc.co/store §cto join servers even if they're full!",
