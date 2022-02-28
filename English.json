@@ -1,0 +1,12 @@
+{
+  "name": "en_au",
+  "pretty_name": "English",
+  "flag": "https://cdn.nethergames.org/img/flags/australia.png",
+  "translators": ["NetherGames"],
+  "translations": {
+    "join.welcome": "§bWelcome to §eNether§6Games§b!",
+    "join.vote": "§6Vote for us daily at §bngmc.co/v §6and you could win a free rank upgrade!",
+
+    "party.welcome": "Welcome to §b{%host}'s party!"
+  }
+}
