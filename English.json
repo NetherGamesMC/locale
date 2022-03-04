@@ -10,7 +10,7 @@
     "command.tell.yourself": "You can't send a message to yourself.",
     "db.error": "An unexpected database error occurred while connecting to the database. Please try again later.",
     "formhandler.reporter.notreported": "That player can't be reported.",
-    "formhandler.reporter.reported": "You reported {%player} for {%reason}",
+    "formhandler.reporter.reported": "You reported {%reported} for {%reason}",
     "formhandler.reporter.staffmessage": "{%reported} has been reported by {%reporter} for {%reason}",
     "formhandler.settings.disabled": "Disabled",
     "formhandler.settings.enabled": "Enabled",
@@ -47,6 +47,24 @@
     "menu.blocked": "You don't have permission to use that menu.",
     "pets.ride.noperm": "§cYou don't have permission to ride and control pets.\\nBuy the §l§cTITAN§r §crank at §bngmc.co/store §cto ride them!",
     "player.offline": "That player isn't online.",
-    "staff.impersonating": "Impersonating staff members is not allowed."
+    "staff.impersonating": "Impersonating staff members is not allowed.",
+
+    "party.welcome": "Welcome to {%host}'s party!",
+    "forms.party.invite": "Invite more players:",
+    "party.kicked": "You have been kicked from the party by {%kicker}.",
+    "party.kicked.message": "{%kicker} kicked {%kicked} from the party.",
+    "party.already.in.host": "{%invited} is already in a party!",
+    "party.already.invited": "You have already invited {%invited}.",
+    "party.max": "You can't invite more than {%max} players to your party!",
+    "party.invited": "Invited {%invited} to your party.",
+    "party.ended.host": "Ended your party.",
+    "party.leave.player": "You left the party.",
+    "party.join.game": "You're currently in a party. Wait for your party host to decide which game to play!",
+    "party.still.in.game": "{%member} is still in a match. Wait for them before you join another one!",
+    "command.vote.slowdown": "§cSlow down, we're checking votes for you already!",
+    "vote.claimed": "You've already voted and claimed your rewards today.",
+    "vote.successful": "Successfully claimed your rewards. Thanks for voting for §eNether§6Games§a!",
+    "vote.notyet": "§cYou haven't voted yet today. Vote at §bngmc.co/v§c, then come back and claim your rewards.",
+    "vote.error": "An unknown error occurred while checking your vote status."
   }
 }
