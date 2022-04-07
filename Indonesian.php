@@ -33,7 +33,7 @@ class Indonesian implements Language
             'command.chat.usage' => '§cJalankan /c [{%0}] Untuk menyalakan obrolan spesifik.',
             'command.chat.usage.nothing' => '§cMaaf, anda tidak bisa berganti obrolan saat tidak berada di pesta.',
             'command.chat.usage.party' => '§cWoohoo! jalankan /c pesta untuk menyalakan obrolan pesta, jalankan /c off untuk mematikan obrolan pesta.',
-            'database.error ' => ' §l§c Terjadi kesalahan tak terduga saat menyambung ke database. Data anda tidak akan disimpan untuk sesi ini. ',
+            'database.error ' => ' §l§c Terjadi kesalahan tak terduga saat menyambung ke database. Data anda tidak akan disimpan untuk sesi ini.',
             'forms.profile.credits' => '§bCredit: {%0} ',
             'forms.profile.deaths' => '§bKematian: {%0}',
             'forms.profile.kills' => '§bMembunuh: {%0}',
