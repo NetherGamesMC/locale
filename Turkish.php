@@ -26,13 +26,13 @@ class Turkish implements Language
     public function translations(): array
     {
         return [
-            'command.chat.change' => '§6Disabled {%0} sohbet ve {%1} sohbet etkinleştirildi. Artık yalnızca {%1} üyelerle sohbet ediyorsun. ',
-            'command.chat.disable' => '§6Engelli {%0} sohbet. Artık tüm oyuncularla sohbet ediyorsun. ',
-            'command.chat.enable' => '§6Etkin {%0} sohbet. Artık yalnızca {%0} üyelerle sohbet ediyorsun. ',
+            'command.chat.change' => '§6Disabled {%0} sohbet ve {%1} sohbet etkinleştirildi. Artık yalnızca {%1} üyelerle sohbet ediyorsun.',
+            'command.chat.disable' => '§6Engelli {%0} sohbet. Artık tüm oyuncularla sohbet ediyorsun.',
+            'command.chat.enable' => '§6Etkin {%0} sohbet. Artık yalnızca {%0} üyelerle sohbet ediyorsun.',
             'command.chat.public' => '§Üzgünüm, zaten genel bir sohbette.',
             'command.chat.usage' => '§cRun / c [{%0}] belirli bir sohbeti etkinleştirmek için.',
             'command.chat.usage.nothing' => '§cSorry, partide değilken sohbetleri değiştiremezsiniz.',
-            'command.chat.usage.party' => '§cWoohoo! Parti sohbetini etkinleştirmek için / c partisini çalıştırın, parti sohbetini devre dışı bırakmak için c / çalıştırın. ',
+            'command.chat.usage.party' => '§cWoohoo! Parti sohbetini etkinleştirmek için / c partisini çalıştırın, parti sohbetini devre dışı bırakmak için c / çalıştırın.',
             'database.error' => '§l§cVeritabanına bağlanırken beklenmeyen bir hata oluştu. Verileriniz bu oturum için kaydedilmeyecek.',
             'forms.profile.credits' => '§bKredisi: {%0}',
             'forms.profile.deaths' => '§bÖlümleri: {%0}',
