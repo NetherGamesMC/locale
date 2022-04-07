@@ -26,7 +26,7 @@ class Spanish implements Language
     public function translations(): array
     {
         return [
-            'command.chat.change' => '§6Chat {%0} deshabilitado y chat {%1} habilitado. Ahora solo chateas con miembros de {%1} .',
+            'command.chat.change' => '§6Chat {%0} deshabilitado y chat {%1} habilitado. Ahora solo chateas con miembros de {%1}.',
             'command.chat.disable' => '§6Chat {%0} deshabilitado. Ahora chates con todos.',
             'command.chat.enable' => '§6Chat {%0} habilitado. Ahora hablas con miembros de {%0} solamente.',
             'command.chat.public' => '§cLo sentimos, ya estás en el chat público.',
