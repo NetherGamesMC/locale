@@ -31,7 +31,7 @@ class Dutch implements Language
             'command.chat.enable' => '§6Je hebt {%0} chat geactiveerd. Je kunt nu met {%0} spelers praten.',
             'command.chat.public' => '§cSorry, je bent al in openbare chat.',
             'command.chat.usage' => '§cType /c [{%0}] om een specifieke chat te activeren',
-            'command.chat.usage.nothing' => '§cSorry, Je kunt niet van chat wisselen als je niet in een party zit.',
+            'command.chat.usage.nothing' => '§cSorry, je kunt niet van chat wisselen als je niet in een party zit.',
             'command.chat.usage.party' => '§cWoohoo! Type /c party om je party chat te activeren, type /c off om de party chat te deactiveren.',
             'database.error' => '§l§cEen onverwachte error ontstond terwijl je verbinding maakte met de server. Je data zal niet worden opgeslagen voor deze sessie.',
             'forms.profile.credits' => '§bCredits: {%0}',
