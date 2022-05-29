@@ -91,6 +91,6 @@
     "zone.fly.disabled": "Fly is disabled in this zone",
     "secret.unlocked.title": "§aSecret unlocked",
     "join.welcome": "§aWelcome to §6§lNetherGames§r§a! Please make sure to read our rules and to report hackers, should you encounter them. We wish you great fun playing!",
-    "join.vote": "§3It seems like you have not voted yet. Make sure to vote on §3ngmc.co/v§r for voting rewards!"
+    "join.vote": "§3It seems like you have not voted yet. Make sure to vote on §6ngmc.co/v§3 for voting rewards!"
   }
 }
