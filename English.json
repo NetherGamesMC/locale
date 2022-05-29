@@ -87,6 +87,8 @@
     "vote.successful": "Successfully claimed your rewards. Thanks for voting for §eNether§6Games§a!",
     "secret.unlock.all": "Congratulations, you completed the lobby secrets! What a wild adventure this was. Enjoy your time around, and we hope you enjoyed the little puzzles :)",
     "zone.fly.disabled": "Fly is disabled in this zone",
-    "secret.unlocked.title": "§aSecret unlocked"
+    "secret.unlocked.title": "§aSecret unlocked",
+    "join.welcome": "§aWelcome to §6§lNetherGames§r§a! Please make sure to read our rules and to report hackers, should you encounter them. We wish you great fun playing!",
+    "join.vote": "§3It seems like you have not voted yet. Make sure to vote on §3ngmc.co/v§r for voting rewards!"
   }
 }
