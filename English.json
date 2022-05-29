@@ -63,6 +63,8 @@
     "forms.teleporter": "§eNether§6Games §bTeleporter",
     "forms.teleporter.full": "FULL",
     "forms.teleporter.offline": "OFFLINE",
+    "forms.teleporter.partly_online": "PARTLY ONLINE",
+    "forms.teleporter.online": "ONLINE",
     "forms.teleporter.select": "Select a minigame:",
     "join.vote": "§6Vote for us daily at §bngmc.co/v §6and you could win a free rank upgrade!",
     "join.welcome": "§bWelcome to §eNether§6Games§b!",
