@@ -4,6 +4,7 @@
   "flag": "https://cdn.nethergames.org/img/flags/australia.png",
   "translators": ["NetherGames Network"],
   "translations": {
+    "global.nothere": "You can't do that here",
     "command.nothere": "You cannot use that command here!",
     "command.ci.completed": "Your inventory has been cleared!",
     "command.notinlobby": "That command can only be used in the lobby.",
