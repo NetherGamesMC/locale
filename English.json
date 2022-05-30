@@ -4,6 +4,7 @@
   "flag": "https://cdn.nethergames.org/img/flags/australia.png",
   "translators": ["NetherGames"],
   "translations": {
+    "command.nothere": "You cannot use that command here!",
     "command.ci.completed": "Your inventory has been cleared!",
     "command.notinlobby": "That command can only be used in the lobby.",
     "command.tell.receiver": "{%sender} whispered to you: {%message}",
@@ -71,7 +72,7 @@
     "menu.blocked": "You don't have permission to use that menu.",
     "party.already.in.host": "{%invited} is already in a party!",
     "party.already.invited": "You have already invited {%invited}.",
-    "party.ended.host": "Ended your party.",
+    "party.ended.host": "You successfully ended your party.",
     "party.invited": "Invited {%invited} to your party.",
     "party.join.game": "You're currently in a party. Wait for your party host to decide which game to play!",
     "party.kicked": "You have been kicked from the party by {%kicker}.",
@@ -91,6 +92,7 @@
     "zone.fly.disabled": "Fly is disabled in this zone",
     "secret.unlocked.title": "§aSecret unlocked",
     "join.welcome": "§aWelcome to §6§lNetherGames§r§a! Please make sure to read our rules and to report hackers, should you encounter them. We wish you great fun playing!",
-    "join.vote": "§3It seems like you have not voted yet. Make sure to vote on §6ngmc.co/v§3 for voting rewards!"
+    "join.vote": "§3It seems like you have not voted yet. Make sure to vote on §6ngmc.co/v§3 for voting rewards!",
+    "crate.inuse": "This crate is currently in use",
   }
 }
