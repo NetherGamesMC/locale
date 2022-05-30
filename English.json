@@ -2,7 +2,7 @@
   "name": "en_au",
   "pretty_name": "English",
   "flag": "https://cdn.nethergames.org/img/flags/australia.png",
-  "translators": ["NetherGames"],
+  "translators": ["NetherGames Network"],
   "translations": {
     "command.nothere": "You cannot use that command here!",
     "command.ci.completed": "Your inventory has been cleared!",
