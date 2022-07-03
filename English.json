@@ -44,6 +44,7 @@
     "formhandler.settings.hideplayers": "You are now {%enabledOrDisabled} players.",
     "formhandler.settings.hiding": "hiding",
     "formhandler.settings.knockback": "{%enabledOrDisabled} knockback in the lobby.",
+    "formhandler.settings.announcements": "{%enabledOrDisabled} server announcements.",
     "formhandler.settings.nick.enabled": "Your name tag has been changed to {%nametag}!",
     "formhandler.settings.nick.reset": "Reset your name tag.",
     "formhandler.settings.pet.removed": "Pet removed.",
