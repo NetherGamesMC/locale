@@ -96,7 +96,7 @@
     "secret.unlocked.title": "§aSecret unlocked",
     "crate.inuse": "This crate is currently in use",
     "skywars.luckyblock.no_chests": "Chests disabled in lucky block!",
-    "skywars.cooldown.grapping_rod": "Grapping rod is on cooldown for {%seconds} seconds!",
+    "skywars.cooldown.grappling_rod": "Grappling rod is on cooldown for {%seconds} seconds!",
     "skywars.setup.add_middle_chest": "Successfully added middle chest at {%position}!",
     "skywars.setup.enter_middle_chest_setup_mode": "Entered chest configuration mode for: {%arena}\nTap chests to add to middle chests or use command '/sw edit setmidchest' to stop.",
     "skywars.setup.exit_middle_chest_setup_mode": "Exited chest configuration mode.",
