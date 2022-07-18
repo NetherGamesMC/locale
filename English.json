@@ -94,9 +94,23 @@
     "secret.unlock.all": "Congratulations, you completed the lobby secrets! What a wild adventure this was. Enjoy your time around, and we hope you enjoyed the little puzzles :)",
     "zone.fly.disabled": "Fly is disabled in this zone",
     "secret.unlocked.title": "§aSecret unlocked",
-    "join.welcome": "§aWelcome to §6§lNetherGames§r§a! Please make sure to read our rules and to report hackers, should you encounter them. We wish you great fun playing!",
-    "join.vote": "§3It seems like you have not voted yet. Make sure to vote on §6ngmc.co/v§3 for voting rewards!",
-    "crate.inuse": "This crate is currently in use"
-   
+    "crate.inuse": "This crate is currently in use",
+    "skywars.luckyblock.no_chests": "Chests disabled in lucky block!",
+    "skywars.cooldown.grappling_rod": "Grappling rod is on cooldown for {%seconds} seconds!",
+    "skywars.setup.add_middle_chest": "Successfully added middle chest at {%position}!",
+    "skywars.setup.enter_middle_chest_setup_mode": "Entered chest configuration mode for: {%arena}\nTap chests to add to middle chests or use command '/sw edit setmidchest' to stop.",
+    "skywars.setup.exit_middle_chest_setup_mode": "Exited chest configuration mode.",
+    "skywars.setup.add_team": "Successfully set team {%teamId}'s position at {%position}!",
+    "skywars.setup.add_luckyblock": "Successfully added luckyblock position at {%position}!",
+    "skywars.setup.no_option": "Invalid option, use 'spawn'!",
+    "skywars.setup.speficy": "You must speficy a team id between 0-7.",
+    "skywars.setup.no_arena": "This arena does not exist!",
+    "skywars.height_limit": "You have reached the height limit.",
+    "skywars.maps.available": "Available maps:\n{%maps}",
+    "skywars.maps.removed": "Successfully removed map {%map}!",
+    "skywars.maps.not_found": "Map {%map} was not found!",
+    "skywars.create.exists": "This arena already exists.",
+    "skywars.create.lobby": "Cannot create arena in lobby world.",
+    "skywars.create.success": "Successfully created {%arena}"
   }
 }
