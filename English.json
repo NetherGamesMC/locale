@@ -105,7 +105,7 @@
     "skywars.setup.add_team": "Successfully set team {%teamId}'s position at {%position}!",
     "skywars.setup.add_luckyblock": "Successfully added luckyblock position at {%position}!",
     "skywars.setup.no_option": "Invalid option, use 'spawn'!",
-    "skywars.setup.speficy": "You must speficy a team id between 0-7.",
+    "skywars.setup.specify": "You must specify a team id between 0-7.",
     "skywars.setup.no_arena": "This arena does not exist!",
     "skywars.height_limit": "You have reached the height limit.",
     "skywars.maps.available": "Available maps:\n{%maps}",
