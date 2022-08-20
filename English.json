@@ -95,10 +95,8 @@
     "zone.fly.disabled": "Fly is disabled in this zone",
     "secret.unlocked.title": "§aSecret unlocked",
     "crate.inuse": "This crate is currently in use",
-    "fireball.perfect.hit": "§eYou hit §c{%playerName} §efrom §c{%blocks} §eblocks!",
-    "fireball.perfect.xp": "§b +{%xp} XP ({%perfectShot} perfect shot(s) with fireball)",
     "skywars.luckyblock.no_chests": "Chests disabled in lucky block!",
-    "skywars.cooldown.grappling_rod": "Grappling rod is on cooldown for {%seconds} seconds!",
+    "skywars.cooldown.grapping_rod": "Grapping rod is on cooldown for {%seconds} seconds!",
     "skywars.setup.add_middle_chest": "Successfully added middle chest at {%position}!",
     "skywars.setup.enter_middle_chest_setup_mode": "Entered chest configuration mode for: {%arena}\nTap chests to add to middle chests or use command '/sw edit setmidchest' to stop.",
     "skywars.setup.exit_middle_chest_setup_mode": "Exited chest configuration mode.",
@@ -113,6 +111,7 @@
     "skywars.maps.not_found": "Map {%map} was not found!",
     "skywars.create.exists": "This arena already exists.",
     "skywars.create.lobby": "Cannot create arena in lobby world.",
-    "skywars.create.success": "Successfully created {%arena}"
+    "skywars.create.success": "Successfully created {%arena}",
+    "skywars.no_corrupted": "You cannot use corrupted items in the first 20 seconds of the game."
   }
 }
