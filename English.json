@@ -113,6 +113,7 @@
     "skywars.maps.not_found": "Map {%map} was not found!",
     "skywars.create.exists": "This arena already exists.",
     "skywars.create.lobby": "Cannot create arena in lobby world.",
-    "skywars.create.success": "Successfully created {%arena}"
+    "skywars.create.success": "Successfully created {%arena}",
+    "skywars.no_corrupted": "You cannot use corrupted items in the first 20 seconds of the game."
   }
 }
