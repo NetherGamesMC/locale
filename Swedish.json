@@ -25,7 +25,7 @@
     "command.tpto.declined.receiver": "Avböjde {%sender}'s begäran för dem att teleportera till dig.",
     "command.tpto.declined.sender": "{%receiver} avböjde din begäran för dig att teleportera till dem.",
     "command.tpto.noperm": "§cDu saknar behörighet att begära att teleportera till andra spelare. Köp §l§aEMERALD§r §celler §l§bLEGEND§r §cpå §bngmc.co/store §cför att skicka dem!",
-    "command.tpto.norequest": "§cDenna spelare har inte skickat en begäran för att teleportera to dig.",
+    "command.tpto.norequest": "§cDenna spelare har inte skickat en begäran för att teleportera till dig.",
     "command.tpto.receive": "{%sender} har begärt att teleportera till dig! Använd §6/tpto accept {%0} för att acceptera begäran.",
     "command.tpto.send": "Din begäran att teleportera till {%receiver} har skickats.",
     "command.vanish.disabled": "Du är nu synlig!",
