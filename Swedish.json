@@ -16,7 +16,7 @@
     "command.tphere.accepted.sender": "{%receiver} accepterade din begäran för dem att teleportera till dig.",
     "command.tphere.declined.receiver": "Avböjde {%sender}'s begäran för dig att teleportera till dem.",
     "command.tphere.declined.sender": "{%receiver} avböjde din begäran för dem att teleportera till dig.",
-    "command.tphere.noperm": "§cDu saknar behörighet att begära andra spelare att teleporta till dig. Köp §l§aEMERALD§r §celler §l§bLEGEND§r §cpå §bngmc.co/store §cför att skicka dem!",
+    "command.tphere.noperm": "§cDu saknar behörighet att begära andra spelare att teleportera till dig. Köp §l§aEMERALD§r §celler §l§bLEGEND§r §cpå §bngmc.co/store §cför att skicka dem!",
     "command.tphere.norequest": "Denna spelare har inte skickat en begäran för dig att teleportera till dem.",
     "command.tphere.receive": "{%sender} har begärt att du teleporterar till dem! Använd §6/tphere accept {%0} för att acceptera begäran.",
     "command.tphere.send": "Din begäran för {%receiver} att teleportera till dig har skickats.",
