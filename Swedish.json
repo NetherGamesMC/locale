@@ -56,7 +56,7 @@
     "forms.settings.fly": "Växla flygning",
     "forms.settings.friends": "Tillåt vänförfrågningar",
     "forms.settings.hideguildtag": "Dölj guildtagg",
-    "forms.settings.hideplayers": "Visa/dölj spelare",
+    "forms.settings.hideplayers": "Dölj spelare",
     "forms.settings.knockback": "Växla knockback",
     "forms.settings.announcements": "Växla servermeddelanden",
     "forms.settings.nick": "Ändra ditt nick: (Använd \"off\" eller \"reset\" för att återställa till standard)",

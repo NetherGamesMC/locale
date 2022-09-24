@@ -56,7 +56,7 @@
     "forms.settings.fly": "Режим полёта",
     "forms.settings.friends": "Разрешить запросы в друзья",
     "forms.settings.hideguildtag": "Скрыть метки гильдии",
-    "forms.settings.hideplayers": "Показать/скрыть игроков",
+    "forms.settings.hideplayers": "Скрыть игроков",
     "forms.settings.knockback": "Переключить отдачу",
     "forms.settings.announcements": "Объявления сервера",
     "forms.settings.nick": "Измените свой псевдоним: (Используйте \"off\" или \"reset\" для сброса)",
