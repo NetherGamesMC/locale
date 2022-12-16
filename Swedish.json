@@ -84,7 +84,7 @@
     "party.max": "Du kan inte bjuda in fler än {%max} spelare till ditt party!",
     "party.still.in.game": "{%member} är fortfarande i en match. Vänta på dem innan du går med i en annan!",
     "party.welcome": "Välkommen till {%host}'s party!",
-    "pets.ride.noperm": "§cDu saknar behörighet att rida och kontrollera husdjur.\\nKöp §l§cTITAN§r §cpå §bngmc.co/store §cför att rida dem!",
+    "pets.ride.noperm": "§cDu saknar behörighet att rida och kontrollera husdjur. Köp §l§cTITAN§r §cpå §bngmc.co/store §cför att rida dem!",
     "player.offline": "Denna spelare är inte online.",
     "staff.impersonating": "Det är inte tillåtet att imitera personal.",
     "vote.claimed": "Du har redan röstat och tagit emot dina belöningar idag.",

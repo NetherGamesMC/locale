@@ -84,7 +84,7 @@
     "party.max": "You can't invite more than {%max} players to your party!",
     "party.still.in.game": "{%member} is still in a match. Wait for them before you join another one!",
     "party.welcome": "Welcome to {%host}'s party!",
-    "pets.ride.noperm": "§cYou don't have permission to ride and control pets.\\nBuy the §l§cTITAN§r §crank at §bngmc.co/store §cto ride them!",
+    "pets.ride.noperm": "§cYou don't have permission to ride and control pets. Buy the §l§cTITAN§r §crank at §bngmc.co/store §cto ride them!",
     "player.offline": "That player isn't online.",
     "staff.impersonating": "Impersonating staff members is not allowed.",
     "vote.claimed": "You've already voted and claimed your rewards today.",
