@@ -1,9 +1,0 @@
-{
-  "name": "tr_tr",
-  "pretty_name": "Turkish",
-  "flag": "https://cdn.nethergames.org/img/flags/turkey.png",
-  "translators": ["NetherGames"],
-  "translations": {
-    "join.welcome": "§eNether§6Games§b'e hoş geldiniz!"
-  }
-}
