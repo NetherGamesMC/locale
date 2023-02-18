@@ -2,9 +2,9 @@
   "name": "pt_br",
   "pretty_name": "Portuguese",
   "flag": "https://cdn.nethergames.org/img/flags/brazil.png",
-  "translators": ["LukXItado BR and Kingpotato1333"],
+  "translators": ["LukXItado BR", "Kingpotato1333"],
   "translations": {
-    "global.nothere": "Não pode fazer isso aqui.",
+    "global.nothere": "Não pode fazer isso aqui",
     "command.nothere": "Não pode usar esse comando aqui!",
     "command.ci.completed": "O seu inventário foi limpo!",
     "command.notinlobby": "Esse comando só pode ser usado no lobby.",
