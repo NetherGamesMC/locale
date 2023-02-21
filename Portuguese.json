@@ -65,7 +65,7 @@
     "forms.settings.pet.change": "Mude o nome do seu pet: (Use \"off\" ou \"reset\" para resetar para o padrão)",
     "forms.settings.pet.setname": "O nome do seu pet foi alterado para {%name}!",
     "forms.teleporter": "Teleportar",
-    "forms.teleporter.full": "cheio",
+    "forms.teleporter.full": "CHEIO",
     "forms.teleporter.offline": "OFFLINE",
     "forms.teleporter.partly_online": "EM PARTY ONLINE",
     "forms.teleporter.online": "ONLINE",
