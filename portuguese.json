@@ -24,7 +24,7 @@
     "command.tpto.accepted.sender": "{%receiver} aceitou o seu pedido para que se teletransportar para eles.",
     "command.tpto.declined.receiver": "Recusou o pedido de {%sender} para que eles se teletransportar para você.",
     "command.tpto.declined.sender": "{%receiver} recusou o seu pedido de se teletransportar para eles.",
-    "command.tpto.noperm": "Não tem autorização para efetuar a teletransportar para outros jogadores. Adquira o passe §l§aEMERALD§r §§mor §l§bLEGEND§r §§mrank em  §§angmc.co/store §§mno site!",
+    "command.tpto.noperm": "Não tem autorização para efetuar a teletransportar para outros jogadores. Adquira o passe §l§aEMERALD§r §§mor §l§bLEGEND§r §§mrank em §§angmc.co/store §§mno site!",
     "command.tpto.norequest": "Aquele jogador não enviou um pedido de teletransporte para você.",
     "command.tpto.receive": "{%sender} pediu para se teletransportar para você! Use §§a/tpto accept {%0} para aceitar o pedido.",
     "command.tpto.send": "O seu pedido de teletransporte para {%receiver} foi enviado.",
