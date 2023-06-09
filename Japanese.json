@@ -24,7 +24,7 @@
     "command.tpto.accepted.sender": "{%receiver}へのテレポートのリクエストが受け入れられました・",
     "command.tpto.declined.receiver": "{%sender}から受けた、あなたへのテレポートのリクエストを拒否しました。",
     "command.tpto.declined.sender": "{%receiver}へのテレポートのリクエストが拒否されました。",
-    "command.tpto.noperm": "ほかのプレイヤーへテレポートをリクエストする権限がありません。リクエストするには§l§aEMERALD§r§cまたは§l§bLEGEND§r§§mランクを§§abngmc.co/store§§mで購入してください。",
+    "command.tpto.noperm": "ほかのプレイヤーへテレポートをリクエストする権限がありません。リクエストするには§l§aEMERALD§r§§mまたは§l§bLEGEND§r§§mランクを§§abngmc.co/store§§mで購入してください。",
     "command.tpto.norequest": "そのプレイヤーから、あなたへのテレポートのリクエストは受けていません。",
     "command.tpto.receive": "{%sender}はあなたへテレポートしたいそうです！§§a/tpto accept {%0}を使って、リクエストを受け入れましょう！",
     "command.tpto.send": "{%receiver}へのテレポートのリクエストを送信しました！",
