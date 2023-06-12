@@ -64,6 +64,7 @@
     "forms.settings.pet": "Your pet:",
     "forms.settings.pet.change": "Change your pet's name: (Use \"off\" or \"reset\" to reset to default)",
     "forms.settings.pet.setname": "Your pet's name has been changed to {%name}!",
+    "forms.settings.pet.toolong": "Your pet's name is too long!",
     "forms.teleporter": "Teleporter",
     "forms.teleporter.full": "FULL",
     "forms.teleporter.offline": "OFFLINE",
