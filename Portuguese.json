@@ -2,7 +2,7 @@
   "name": "pt_br",
   "pretty_name": "Portuguese",
   "flag": "https://cdn.nethergames.org/img/flags/brazil.png",
-  "translators": ["LukXItado BR", "Kingpotato1333"],
+  "translators": ["LukXItado BR", "Kingpotato1333", "Pqoster"],
   "translations": {
     "global.nothere": "Não pode fazer isso aqui",
     "command.nothere": "Não pode usar esse comando aqui!",
