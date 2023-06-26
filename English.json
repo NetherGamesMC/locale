@@ -34,6 +34,8 @@
     "command.tpto.send": "Your request to teleport to {%receiver} has been sent.",
     "command.vanish.disabled": "You are now visible!",
     "command.vanish.enabled": "You have now vanished!",
+    "command.party.nosupport": "This server does not support social features.",
+    "command.party.notfound": "Sorry, that player cannot be found.",
     "command.vote.slowdown": "Slow down, we're checking votes for you already!",
     "db.error": "An unexpected database error occurred while connecting to the database. Please try again later.",
     "formhandler.reporter.notreported": "That player can't be reported.",
