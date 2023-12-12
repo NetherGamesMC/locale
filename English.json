@@ -127,6 +127,6 @@
     "skywars.create.success": "Successfully created {%arena}",
     "skywars.no_corrupted": "You cannot use corrupted items in the first 20 seconds of the game.",
     "skywars.kit.selected": "You selected the {%kit} kit!",
-    "skywars.settings.updated": "Updated the custom game rules successfully!"
+    "game.settings.updated": "Updated the custom game rules successfully!"
   }
 }
